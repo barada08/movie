@@ -1,0 +1,43 @@
+{
+	status : {
+		responseCode : 1001,
+		responseDescription : "Success"
+	},
+	movies : [
+		{
+			id : "mv1001",
+			name : "dabang",
+			rating : 1,
+			genre : "action, comedy, thriller",
+			region : "bollywood"
+		},
+		{
+			id : "mv1002",
+			name : "malang",
+			rating : 5,
+			genre : "action, thriller",
+			region : "bollywood"
+		},
+		{
+			id : "mv1003",
+			name : "ford V ferari",
+			rating : 8,
+			genre : "thriller",
+			region : "hollywood"
+		},
+		{
+			id : "mv1004",
+			name : "prestige",
+			rating : 9,
+			genre : "thriller",
+			region : "hollywood"
+		},
+		{
+			id : "mv1005",
+			name : "mirchi",
+			rating : 4,
+			genre : "action, tragedy, drama, thriller",
+			region : "tollywood"
+		}
+	]
+}
